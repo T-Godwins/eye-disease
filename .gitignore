@@ -1,0 +1,37 @@
+# Environment variables
+.env
+*.env
+.env.*
+
+# Data folder
+dataset/
+
+# Model and large binary files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDE/project files
+.vscode/
+.idea/
