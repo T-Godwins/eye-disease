@@ -11,6 +11,8 @@ dataset/
 *.hdf5
 *.pkl
 *.joblib
+*.keras
+*.keras
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -35,4 +37,3 @@ venv/
 # IDE/project files
 .vscode/
 .idea/
-.keras
