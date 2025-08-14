@@ -35,3 +35,4 @@ venv/
 # IDE/project files
 .vscode/
 .idea/
+.keras
