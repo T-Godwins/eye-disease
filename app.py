@@ -96,6 +96,10 @@ if(test_image is not None):
                 NORMAL is a disease of the retina.
                 """)
 
+        #Clean up temp file
+        os.remove(temp_file_path)
+
+
 #Footer
 st.markdown("""
 By Godwins & Elikem
