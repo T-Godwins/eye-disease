@@ -3,6 +3,9 @@
 *.env
 .env.*
 
+# prompt
+IMPROVEMENT_PROMPT.md
+
 # Data folder
 dataset/
 
